@@ -1,0 +1,50 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.log/ti-32206.log
+.log/ti-36219.log
+.log/ti-36374.log
+.log/ti-36542.log
+.log/ti-37902.log
+.log/ti-38098.log
+.log/ti-38141.log
+.log/ti-38535.log
+.log/ti-39781.log
+.log/ti-40589.log
+.log/ti-40779.log
+.log/ti-40989.log
+.log/ti-41179.log
+.log/ti-41306.log
+.log/ti-41578.log
+.log/tsserver.log
+.log/ti-89023.log
+.log/ti-89187.log
+.log/ti-89628.log
+.log/ti-90462.log
+.log/ti-90798.log
+.log/ti-90948.log
+.log/ti-91081.log
+.log/ti-91300.log
+.log/ti-91752.log
+.log/ti-91927.log
+.log/
